@@ -114,8 +114,7 @@ Features:
 ---
 
 ## 🌈 〰️ GitHub Stats 〰️  
-<p align="center"> <!-- GitHub Stats --> <img src="https://github-readme-stats.vercel.app/api?username=Harshada1902&show_icons=true&theme=swift&hide_border=true" width="45%" /> <!-- Streak Stats --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshada1902&theme=swift&hide_border=true" width="48%" /> 
-</p>
+<p align="center"> <!-- GitHub Stats --> <img src="https://github-readme-stats-git-masterrk.vercel.app/api?username=Harshada1902&show_icons=true&theme=swift&hide_border=true" width="45%" /> <!-- Streak Stats --> <img src="https://streak-stats.demolab.com/?user=Harshada1902&theme=swift&hide_border=true" width="48%" /> </p>
 
 ---
 
