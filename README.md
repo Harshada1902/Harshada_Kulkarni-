@@ -114,24 +114,13 @@ Features:
 ---
 
 ## 🌈 〰️ GitHub Stats 〰️  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=(https://github.com/Harshada1902)&show_icons=true&theme=swift&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=swift&hide_border=true" width="48%" />
+<p align="center"> <!-- GitHub Stats --> <img src="https://github-readme-stats.vercel.app/api?username=Harshada1902&show_icons=true&theme=swift&hide_border=true" width="45%" /> <!-- Streak Stats --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshada1902&theme=swift&hide_border=true" width="48%" /> 
 </p>
 
 ---
 
 ## 🌸 〰️ Connect With Me 〰️  
-<p align="center">
-  <a href="YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-(https://www.linkedin.com/in/harshada-kulkarni-b91556237)style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-harshadakulkarni2004@gmail.com style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-</p>
+<p align="center"> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/harshada-kulkarni-b91556237" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Harshada%20Kulkarni-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <!-- Email --> <a href="mailto:harshadakulkarni2004@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
 ---
 
