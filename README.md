@@ -6,8 +6,8 @@
 ---
 
 ## 💗 〰️ About Me 〰️  
-✨ Hi! I'm **Harshada**, a creative and enthusiastic developer who loves building beautiful, interactive, and meaningful applications.  
-🌸 Passionate about web development, UI design, and bringing ideas to life.  
+✨ Hi! I'm Harshada, a creative and enthusiastic Python Developer who loves building smart, efficient, and user-friendly applications.
+🌸I enjoy solving real-world problems using Python, exploring new frameworks, and writing clean, readable code.With a passion for innovation and continuous learning, I bring ideas to life through automation, logic, and beautiful user experiences. 
 🌼 Always learning, always improving, always creating!
 
 ---
@@ -19,13 +19,9 @@
   
 ![HTML](https://img.shields.io/badge/HTML5-F7DDE2?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-F5C6EC?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FADADD?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-D9C9FF?style=for-the-badge&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-DEC9F9?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFF1CC?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-F9ECCC?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F7D1D1?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-E8D8FF?style=for-the-badge&logo=github&logoColor=white)
 
 </p>
 
@@ -119,7 +115,7 @@ Features:
 
 ## 🌈 〰️ GitHub Stats 〰️  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=swift&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=(https://github.com/Harshada1902)&show_icons=true&theme=swift&hide_border=true" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=swift&hide_border=true" width="48%" />
 </p>
 
@@ -128,11 +124,11 @@ Features:
 ## 🌸 〰️ Connect With Me 〰️  
 <p align="center">
   <a href="YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-F3C4FB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-(https://www.linkedin.com/in/harshada-kulkarni-b91556237)style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-F9D1D1?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-harshadakulkarni2004@gmail.com style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
 </p>
